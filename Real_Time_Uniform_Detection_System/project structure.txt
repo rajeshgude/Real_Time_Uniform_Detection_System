@@ -1,0 +1,6 @@
+uniform_detection/
+├── app.py
+├── train_uniform.py
+├── uniform_model.py
+├── requirements.txt
+└── dress_code_data/  # Folder containing 'uniform' and 'non_uniform' subfolders with images
