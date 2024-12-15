@@ -1,5 +1,5 @@
 # Real_Time_Uniform_Detection_System
-The Real-Time Dress Code Detection System is a machine learning project designed to identify our college uniform from images or video streams. Built using a customized CNN model, the system processes data in real time and provides accurate results through an interactive user interface. It is scalable and can be customized to detect uniforms for other institutions or workplaces.
+The Real-Time Uniform Detection System is a machine learning project designed to identify our college uniform from images or video streams. Built using a customized CNN model, the system processes data in real time and provides accurate results through an interactive user interface. It is scalable and can be customized to detect uniforms for other institutions or workplaces.
 
 # Key Features
 Custom CNN Model: Designed specifically for dress code classification.
